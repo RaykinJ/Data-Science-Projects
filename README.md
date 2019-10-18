@@ -4,11 +4,5 @@ Data from PetFinder.com will be analyzed to determine how an animal’s PetFinde
 
 This solution can be used by animal shelters to help animals get adopted faster. This study focuses on photos and animal descriptions, which are features that can be directly altered by shelters to increase adoptability.
 
-Methods used in this project:
-    - Random forest
-    - Xgboost
-    - PCA
-    - CNNs
-    - Transfer learning
-    - Wide and deep model
+Methods used in this project: random forest, xgboost, PCA, CNNs, transfer learning, wide and deep model
 
