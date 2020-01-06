@@ -1,6 +1,6 @@
 Porsche Clean Air Hackathon Submission
 
-Submission for ATLytiCS Data for Hope: Assessing Environmental Impact, directed by Porsche
+Submission for ATLytiCS Data for Hope: Assessing Environmental Impact, directed by Porsche.
 
 Phase 1 involved developing a Proposed Approach, while Phase 2 involved developing a solution given a Porsche identified dataset.
 
